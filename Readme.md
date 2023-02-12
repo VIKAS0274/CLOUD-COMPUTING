@@ -15,3 +15,5 @@
 |6.		|[web services ](#exp6)<br/>	|10-02-2023	|
 |7.		|[create storage account ](#exp7)<br/>	|10-02-2023			|
 |8.		|[Create a Simple Web Application using Java and host it in any Public Cloud Service ](#exp8)<br/>	| 10-02-2023	     	|
+|9.		|[HADOOP ](#exp9)<br/>	|11-02-2023			|
+|10.		|[Install c complier  ](#exp10)<br/>	|11-02-2023			|
